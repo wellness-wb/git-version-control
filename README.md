@@ -20,4 +20,4 @@
 
 - Tommy Sowers
   - [x] Compelted First Step
-  - [ ] Compelted Second Step
+  - [x] Compelted Second Step
