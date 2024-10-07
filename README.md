@@ -5,7 +5,7 @@
 
 - Jongmin Choi
 
-  - [ ] Compelted First Step
+  - [x] Compelted First Step
   - [ ] Compelted Second Step
 
 - Kaung Khant
