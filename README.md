@@ -19,5 +19,5 @@
   - [ ] Compelted Second Step
 
 - Tommy Sowers
-  - [ x] Compelted First Step
-  - [ ] Compelted Second Step
+  - [x] Compelted First Step
+  - [x] Compelted Second Step
